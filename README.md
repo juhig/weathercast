@@ -36,3 +36,14 @@ Features:
 
 Download Weathercast today for free and enjoy  superior accuracy  in weather forecasting on your Android device.
 
+![Alt text](https://raw.githubusercontent.com/vidit135g/weathercast/master/sl1.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/weathercast/master/sl2.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/weathercast/master/sl3.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/weathercast/master/sl4.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/weathercast/master/sl5.png?raw=true "Title")
+
+![Alt text](https://raw.githubusercontent.com/vidit135g/weathercast/master/sl6.png?raw=true "Title")
