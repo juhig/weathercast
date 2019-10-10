@@ -15,18 +15,19 @@
             android:title="@string/setting_showTempAsInteger" />
 
         <ListPreference
+            android:defaultValue="m/s"
+            android:entries="@array/speedUnits"
+            android:entryValues="@array/speedUnitsValues"
+            android:key="speedUnit"
+            android:title="@string/setting_speedUnits" />
+        
+        <ListPreference
             android:defaultValue="mm"
             android:entries="@array/lengthUnits"
             android:entryValues="@array/lengthUnitsValues"
             android:key="lengthUnit"
             android:title="@string/setting_lengthUnits" />
 
-        <ListPreference
-            android:defaultValue="m/s"
-            android:entries="@array/speedUnits"
-            android:entryValues="@array/speedUnitsValues"
-            android:key="speedUnit"
-            android:title="@string/setting_speedUnits" />
 
         <ListPreference
             android:defaultValue="hPa"
@@ -95,6 +96,14 @@
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/settings_title_location">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="updateLocationAutomatically"
+            android:title="@string/setting_update_location_automatically" />
+
+    </PreferenceCategory>
+     <PreferenceCategory android:title="@string/settings_title_location">
 
         <CheckBoxPreference
             android:defaultValue="false"
